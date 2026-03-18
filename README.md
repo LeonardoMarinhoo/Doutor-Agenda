@@ -107,37 +107,37 @@ Acesse [http://localhost:3000](http://localhost:3000).
 
 ### Semana 01: Setup do Projeto
 
-- [ ] Inicialização do projeto Next.js
-- [ ] Configuração de ferramentas (ESlint, Prettier, Tailwind)
-- [ ] Configuração do Drizzle e banco de dados
-- [ ] Configuração do shadcn/ui
+- [x] Inicialização do projeto Next.js
+- [x] Configuração de ferramentas (ESlint, Prettier, Tailwind)
+- [x] Configuração do Drizzle e banco de dados
+- [x] Configuração do shadcn/ui
 
 ### Semana 02: Autenticação e Configurações do Estabelecimento
 
-- [ ] Tela de login e criação de conta
-- [ ] Login com e-mail e senha
-- [ ] Login com o Google
-- [ ] Fundamentos do Next.js (Rotas, Páginas, Layouts)
-- [ ] Criação de clínica
+- [x] Tela de login e criação de conta
+- [x] Login com e-mail e senha
+- [x] Login com o Google
+- [x] Fundamentos do Next.js (Rotas, Páginas, Layouts)
+- [x] Criação de clínica
 
 ### Semana 03: Gerenciamento de Profissionais e Disponibilidade
 
-- [ ] Sidebar e Route Groups
-- [ ] Página de médicos
-- [ ] Criação de médicos & NextSafeAction
-- [ ] Listagem de médicos
-- [ ] Atualização de médicos
-- [ ] Deleção de médicos
+- [x] Sidebar e Route Groups
+- [x] Página de médicos
+- [x] Criação de médicos & NextSafeAction
+- [x] Listagem de médicos
+- [x] Atualização de médicos
+- [x] Deleção de médicos
 
 ### Semana 04: Gerenciamento de Pacientes e Agendamentos
 
-- [ ] Criação de pacientes
-- [ ] Edição de pacientes
-- [ ] Listagem de pacientes
-- [ ] Deleção de pacientes
-- [ ] Criação de agendamentos
-- [ ] Listagem de agendamentos
-- [ ] Deleção de agendamentos
+- [x] Criação de pacientes
+- [x] Edição de pacientes
+- [x] Listagem de pacientes
+- [x] Deleção de pacientes
+- [x] Criação de agendamentos
+- [x] Listagem de agendamentos
+- [x] Deleção de agendamentos
 
 ---
 
